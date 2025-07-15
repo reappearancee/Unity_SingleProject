@@ -34,6 +34,9 @@
 # Visual Studio cache directory
 .vs/
 
+# JetBrains Rider 프로젝트 설정
+.idea/
+
 # Gradle cache directory
 .gradle/
 
