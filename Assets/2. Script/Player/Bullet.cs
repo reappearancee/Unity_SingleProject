@@ -30,20 +30,12 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        var enemyStats = collision.GetComponent<EnemyStats>();
-        if (enemyStats != null)
+        EnemyMovement enemy = collision.GetComponent<EnemyMovement>();
+        if (enemy != null)
         {
-            Debug.Log($"bulletDmg: {bulletDmg}");
-            enemyStats.hp -= bulletDmg;
-        
-            // 죽으면 제거
-            if (enemyStats.hp <= 0)
-            {
-                Destroy(collision.gameObject);
-            }
-            Debug.Log($"Enemy HP: {enemyStats.hp} after hit");
-            // 총알 제거
+            enemy.TakeHit(bulletDmg);  // 데미지전달
             Destroy(gameObject);
         }
     }
+    
 }

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
+    private PlayerStats playerStats;
     private EnemyStats enemyStats;
     private Vector3 moveDirection = Vector3.down; // 기본값 (혹시라도 설정 안 됐을 때 대비)
 
@@ -12,6 +13,7 @@ public class EnemyMovement : MonoBehaviour
     
     void Start()
     {
+        playerStats = GetComponent<PlayerStats>();
         enemyStats = GetComponent<EnemyStats>();
     }
 
@@ -21,5 +23,27 @@ public class EnemyMovement : MonoBehaviour
     }
     
     //플레이어와 충돌
-    //피격시 넉백(슈팅에 넣을지, 여기에 넣을지 모르겠음)
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            PlayerStats playerStats = other.GetComponent<PlayerStats>();
+            if (playerStats != null)
+            {
+                playerStats.hp -= enemyStats.damage;
+                Debug.Log("Player Hit");
+            }
+        }
+    }
+    //피격
+    public void TakeHit(float dmg)
+    {
+        enemyStats.hp -= dmg;
+
+        if (enemyStats.hp <= 0)
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
 }
