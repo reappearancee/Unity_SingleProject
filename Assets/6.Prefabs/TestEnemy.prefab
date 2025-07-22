@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 3053433302889975589}
   m_Layer: 0
   m_Name: TestEnemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -371,6 +371,7 @@ MonoBehaviour:
   enemy_Damage: 1
   enemy_MoveSpeed: 1
   enemy_MaxHp: 4
+  enemy_Score: 10
   healthBar: {fileID: 7801257750632974511}
 --- !u!50 &589886422933632792
 Rigidbody2D:

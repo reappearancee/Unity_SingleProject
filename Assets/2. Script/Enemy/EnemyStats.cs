@@ -3,9 +3,11 @@ using UnityEngine.UI;
 
 public class EnemyStats : MonoBehaviour, I_Stats
 {
+    
     [SerializeField] private float enemy_Damage = 1f;
     [SerializeField] private float enemy_MoveSpeed = 1f;
     [SerializeField] private float enemy_MaxHp = 3f;
+    [SerializeField] private int enemy_Score = 10;
     private float enemy_CurrentHp;
 
     [Header("체력바")]
@@ -38,4 +40,17 @@ public class EnemyStats : MonoBehaviour, I_Stats
             }
         }
     }
+    public void TakeHit(float dmg)
+    {
+        hp -= dmg;
+
+        if (hp <= 0)
+        {
+            GameManager.score += enemy_Score;
+            Destroy(gameObject);
+            
+            return;
+        }
+    }
+    
 }

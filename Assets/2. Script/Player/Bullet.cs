@@ -30,12 +30,12 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        EnemyMovement enemy = collision.GetComponent<EnemyMovement>();
-        if (enemy != null)
+        EnemyStats enemyStats = collision.GetComponent<EnemyStats>();
+        if (enemyStats != null)
         {
-            enemy.TakeHit(bulletDmg);  // 데미지전달
-            Destroy(gameObject);
+            enemyStats.TakeHit(bulletDmg);
         }
+
+        Destroy(gameObject);
     }
-    
 }

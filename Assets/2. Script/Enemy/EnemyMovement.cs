@@ -35,15 +35,4 @@ public class EnemyMovement : MonoBehaviour
             }
         }
     }
-    //피격
-    public void TakeHit(float dmg)
-    {
-        enemyStats.hp -= dmg;
-
-        if (enemyStats.hp <= 0)
-        {
-            Destroy(gameObject);
-            return;
-        }
-    }
 }
