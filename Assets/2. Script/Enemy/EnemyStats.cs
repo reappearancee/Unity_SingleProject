@@ -3,12 +3,14 @@ using UnityEngine.UI;
 
 public class EnemyStats : MonoBehaviour, I_Stats
 {
-    
     [SerializeField] private float enemy_Damage = 1f;
     [SerializeField] private float enemy_MoveSpeed = 1f;
     [SerializeField] private float enemy_MaxHp = 3f;
     [SerializeField] private int enemy_Score = 10;
     private float enemy_CurrentHp;
+    
+    [Header("사망 이펙트")]
+    public GameObject deathEffect;
 
     [Header("체력바")]
     public Slider healthBar;
@@ -40,17 +42,23 @@ public class EnemyStats : MonoBehaviour, I_Stats
             }
         }
     }
-    public void TakeHit(float dmg)
-    {
-        hp -= dmg;
+ public void TakeHit(float dmg)
+{
+    hp -= dmg;
 
-        if (hp <= 0)
+    if (hp <= 0)
+    {
+        GameManager.score += enemy_Score;
+
+        // 💥 죽었을 때 이펙트 실행
+        if (deathEffect != null)
         {
-            GameManager.score += enemy_Score;
-            Destroy(gameObject);
-            
-            return;
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
         }
+
+        Destroy(gameObject);
+        return;
     }
+}
     
 }
