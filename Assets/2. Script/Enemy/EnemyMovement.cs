@@ -51,6 +51,11 @@ public class EnemyMovement : MonoBehaviour
             {
                 playerStats.hp -= enemyStats.damage;
                 Debug.Log("Player Hit");
+                
+                if (CameraShake.instance != null)
+                {
+                    CameraShake.instance.Shake(0.2f, 0.1f);
+                }
             }
         }
     }

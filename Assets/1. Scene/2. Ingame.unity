@@ -159,8 +159,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Score : '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3e58d7b66bcd146a9bad2d4b7d36823f, type: 2}
+  m_sharedMaterial: {fileID: -4864401257252123208, guid: 3e58d7b66bcd146a9bad2d4b7d36823f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -252,7 +252,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 100, y: -50}
+  m_AnchoredPosition: {x: 140, y: -50}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &386529031
@@ -432,6 +432,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -557,6 +558,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2db33d94520d4a3cbb329728435d010, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &530021894
 GameObject:
   m_ObjectHideFlags: 0
@@ -1148,7 +1161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbe0b0f80c68245bf9b215ae46e01505, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player_Damage: 2
+  player_Damage: 1
   player_MoveSpeed: 5
   player_Hp: 10
 --- !u!114 &1309450794
@@ -1166,8 +1179,8 @@ MonoBehaviour:
   bulletPrefab: {fileID: 1825500229457547146, guid: 5249f9751d5ac448fad762e31504f8e4, type: 3}
   firePos: {fileID: 475494225}
   fireRate: 0.3
---- !u!58 &1309450795
-CircleCollider2D:
+--- !u!70 &1309450795
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1200,8 +1213,9 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5
+  m_Offset: {x: 0.00720042, y: -0.09360552}
+  m_Size: {x: 0.7263838, y: 1.4752283}
+  m_Direction: 0
 --- !u!1 &1394875768
 GameObject:
   m_ObjectHideFlags: 0
@@ -1236,7 +1250,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -100, y: -50}
+  m_AnchoredPosition: {x: -130, y: -50}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1394875770
@@ -1269,8 +1283,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00:00:00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 3e58d7b66bcd146a9bad2d4b7d36823f, type: 2}
+  m_sharedMaterial: {fileID: -4864401257252123208, guid: 3e58d7b66bcd146a9bad2d4b7d36823f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1301,7 +1315,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 4
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1460,7 +1474,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab:
-  - {fileID: 1548934307478168189, guid: 6384f2e9876724dd09cdd49e5e0ead58, type: 3}
+  - {fileID: 2253814351231422140, guid: e19add803d08b49e29b3a30364d2ed3d, type: 3}
   spawnPoints:
   - {fileID: 530021895}
   - {fileID: 1222372572}

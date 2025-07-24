@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ff6129e590f7e462e87a1694bd4a8879
+guid: 1dfd52c238f204b39a2d6c01ca1f2d81
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2338957276390684705
-    second: big_zombie_run_anim_f1_0
+      213: -5541200194630355007
+    second: big_zombie_run_anim_f3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 55
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: big_zombie_run_anim_f1_0
+      name: big_zombie_run_anim_f3_0
       rect:
         serializedVersion: 2
         x: 5
-        y: 3
+        y: 0
         width: 22
-        height: 31
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 128f4142045a57020800000000000000
-      internalID: 2338957276390684705
+      spriteID: 1c77bb118c3b913b0800000000000000
+      internalID: -5541200194630355007
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      big_zombie_run_anim_f1_0: 2338957276390684705
+      big_zombie_run_anim_f3_0: -5541200194630355007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
