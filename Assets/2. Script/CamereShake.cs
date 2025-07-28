@@ -1,11 +1,17 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class CameraShake : MonoBehaviour
+public class CameraShakeAndFalsh : MonoBehaviour
 {
-    public static CameraShake instance; // 어디서든 쉽게 호출하려고 싱글톤으로 만듦
+    public static CameraShakeAndFalsh instance;
 
     private Vector3 originalPos;
+
+    public Image damagedImage;
+    public float flashDuration = 0.1f;
+
+    private Coroutine flashCoroutine; // 코루틴 중복 방지용
 
     private void Awake()
     {
@@ -13,9 +19,16 @@ public class CameraShake : MonoBehaviour
         originalPos = transform.localPosition;
     }
 
-    public void Shake(float duration, float magnitude)
+    public void ShakeAndFalsh(float duration, float magnitude)
     {
         StartCoroutine(ShakeCoroutine(duration, magnitude));
+
+        // 이미 실행 중이면 중단하고 다시 시작
+        if (flashCoroutine != null)
+        {
+            StopCoroutine(flashCoroutine);
+        }
+        flashCoroutine = StartCoroutine(FlashRoutine());
     }
 
     private IEnumerator ShakeCoroutine(float duration, float magnitude)
@@ -34,5 +47,16 @@ public class CameraShake : MonoBehaviour
         }
 
         transform.localPosition = originalPos;
+    }
+
+    private IEnumerator FlashRoutine()
+    {
+        Color originalColor = damagedImage.color;
+
+        damagedImage.color = new Color(1, 0, 0, 10f / 255f);
+        yield return new WaitForSeconds(flashDuration);
+
+        damagedImage.color = originalColor;
+        flashCoroutine = null; // 종료되면 null로 초기화
     }
 }

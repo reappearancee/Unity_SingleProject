@@ -5,7 +5,7 @@ public class BackgroundManager : MonoBehaviour
 {
     public Transform tilemapA;
     public Transform tilemapB;
-    private float scrollSpeed = 1.5f;
+    private float scrollSpeed = 4f;
 
     private float tilemapHeight;
 

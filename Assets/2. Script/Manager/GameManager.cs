@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
         timer -= Time.deltaTime;
         if (timer < 0f) timer = 0f;
 
-        scoreUI.text = $"Score : {score}";
+        scoreUI.text = $"점수 : {score}";
 
         int seconds = Mathf.FloorToInt(timer); // 정수 초
         int millis = Mathf.FloorToInt((timer - seconds) * 100); // 밀리초 두 자리

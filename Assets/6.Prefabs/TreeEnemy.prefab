@@ -192,7 +192,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8542281669349305048, guid: cd81bb931121546e49a305a8db1d06e8, type: 3}
       propertyPath: enemy_MoveSpeed
-      value: 2
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8969534642381792961, guid: cd81bb931121546e49a305a8db1d06e8, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

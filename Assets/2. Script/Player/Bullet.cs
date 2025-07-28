@@ -28,7 +28,7 @@ public class Bullet : MonoBehaviour
         bulletDmg = dmg;
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision) // 적에게 데미지
     {
         EnemyStats enemyStats = collision.GetComponent<EnemyStats>();
         if (enemyStats != null)
