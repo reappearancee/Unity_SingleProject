@@ -26,9 +26,9 @@ public class EnemyMovement : MonoBehaviour
 
         int ranValue = UnityEngine.Random.Range(0, 10);
 
-        if (ranValue < 7 && targetPlayer != null) // 70%
+        if (ranValue < 7) // 70%
         {
-            moveDirection = targetPlayer.transform.position - transform.position;
+            moveDirection = targetPlayer.transform.position - transform.position; // 플레이어를 바라보는 방향 값
             moveDirection.Normalize();
         }
         else // 30%
