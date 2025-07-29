@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3139789710671462659}
   - component: {fileID: 3966488407903894983}
   - component: {fileID: 3697244293199784107}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: '[Canvas]HP Bar'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 832118913579769569}
   - component: {fileID: 6909144597626840382}
   - component: {fileID: 3027399011309326763}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -186,7 +186,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5291852368131487697}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 2413687672111087109}
   - component: {fileID: 5305144462281982945}
   - component: {fileID: 897504255935778624}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 8542281669349305048}
   - component: {fileID: 5979280124214608323}
   - component: {fileID: 8969534642381792961}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DummyEnemy 1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2391818711916089551}
   - component: {fileID: 5888896223030310385}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: '[Slider] HP Bar'
   m_TagString: Untagged
   m_Icon: {fileID: 0}

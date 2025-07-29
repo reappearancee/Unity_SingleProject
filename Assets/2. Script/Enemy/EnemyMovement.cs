@@ -6,10 +6,16 @@ public class EnemyMovement : MonoBehaviour
     private EnemyStats enemyStats;
     private Vector3 moveDirection;
     public GameObject targetPlayer;
+    private Rigidbody2D rb;
 
     public void SetDirection(Vector3 dir)
     {
         moveDirection = dir.normalized;
+    }
+
+    void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void OnEnable()
@@ -38,24 +44,24 @@ public class EnemyMovement : MonoBehaviour
     }
     void Update()
     {
-        // 🔥 moveDirection을 normalized로 보정해서 일정한 속도로 이동
-        transform.position += moveDirection.normalized * enemyStats.moveSpeed * Time.deltaTime;
+        rb.linearVelocity = moveDirection * enemyStats.moveSpeed;
     }
 
     //플레이어와 충돌
     void OnTriggerEnter2D(Collider2D other)
     {
+
         if (other.CompareTag("Player"))
         {
-            PlayerStats playerStats = other.GetComponent<PlayerStats>();
+            PlayerStats playerStats = other.GetComponentInParent<PlayerStats>(); // 👈 여기 핵심!
             if (playerStats != null)
             {
                 playerStats.hp -= enemyStats.damage;
                 Debug.Log("Player Hit");
 
-                if (CameraShakeAndFalsh.instance != null)
+                if (CameraShakeAndFlash.instance != null)
                 {
-                    CameraShakeAndFalsh.instance.ShakeAndFalsh(0.2f, 0.1f);
+                    CameraShakeAndFlash.instance.ShakeAndFalsh(0.2f, 0.1f);
                 }
             }
         }

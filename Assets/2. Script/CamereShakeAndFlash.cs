@@ -2,9 +2,9 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CameraShakeAndFalsh : MonoBehaviour
+public class CameraShakeAndFlash : MonoBehaviour
 {
-    public static CameraShakeAndFalsh instance;
+    public static CameraShakeAndFlash instance;
 
     private Vector3 originalPos;
 
@@ -23,12 +23,11 @@ public class CameraShakeAndFalsh : MonoBehaviour
     {
         StartCoroutine(ShakeCoroutine(duration, magnitude));
 
-        // 이미 실행 중이면 중단하고 다시 시작
-        if (flashCoroutine != null)
+        // 중복 실행 없이, 기존 코루틴이 끝나면 다시 실행
+        if (flashCoroutine == null)
         {
-            StopCoroutine(flashCoroutine);
+            flashCoroutine = StartCoroutine(FlashRoutine());
         }
-        flashCoroutine = StartCoroutine(FlashRoutine());
     }
 
     private IEnumerator ShakeCoroutine(float duration, float magnitude)
