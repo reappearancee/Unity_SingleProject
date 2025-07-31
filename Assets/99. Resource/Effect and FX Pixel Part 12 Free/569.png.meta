@@ -1,421 +1,385 @@
 fileFormatVersion: 2
-guid: 16c7ba57ce05b47abaf610983620a05a
+guid: e10b8e284c7fe46c0abe1f732a95dff8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1979232534141036308
-    second: Necromancer_creativekind-Sheet_0
+      213: 3137019367262301123
+    second: 569_0
   - first:
-      213: -4549297002301125287
-    second: Necromancer_creativekind-Sheet_1
+      213: 2064250792020407361
+    second: 569_1
   - first:
-      213: -5017558274710951236
-    second: Necromancer_creativekind-Sheet_2
+      213: 6899608381750928425
+    second: 569_2
   - first:
-      213: -5201448469101381496
-    second: Necromancer_creativekind-Sheet_3
+      213: 1065756789465403948
+    second: 569_3
   - first:
-      213: 4921253077511382348
-    second: Necromancer_creativekind-Sheet_4
+      213: 4571828029023080946
+    second: 569_4
   - first:
-      213: 100784011807756560
-    second: Necromancer_creativekind-Sheet_5
+      213: -6691006556821003071
+    second: 569_5
   - first:
-      213: -2985728622076837626
-    second: Necromancer_creativekind-Sheet_6
+      213: -8231811643139824532
+    second: 569_6
   - first:
-      213: 4989338898576297435
-    second: Necromancer_creativekind-Sheet_7
+      213: 6427306509526693446
+    second: 569_7
   - first:
-      213: -2195632313391920141
-    second: Necromancer_creativekind-Sheet_8
+      213: 5605355927348729772
+    second: 569_8
   - first:
-      213: 2570864927315520274
-    second: Necromancer_creativekind-Sheet_9
+      213: 3245680288241692809
+    second: 569_9
   - first:
-      213: -4605501128747412024
-    second: Necromancer_creativekind-Sheet_10
+      213: 4039882094678824992
+    second: 569_10
   - first:
-      213: -4193835971775733785
-    second: Necromancer_creativekind-Sheet_11
+      213: 2301753918807633241
+    second: 569_11
   - first:
-      213: 3409808894802789817
-    second: Necromancer_creativekind-Sheet_12
+      213: -3917675077650695937
+    second: 569_12
   - first:
-      213: 8710461724235587129
-    second: Necromancer_creativekind-Sheet_13
+      213: -8073738072876848031
+    second: 569_13
   - first:
-      213: -2653330760695398655
-    second: Necromancer_creativekind-Sheet_14
+      213: -2456858281508092927
+    second: 569_14
   - first:
-      213: -2819515392568491981
-    second: Necromancer_creativekind-Sheet_15
+      213: -7497381901751297939
+    second: 569_15
   - first:
-      213: -3662683688509837215
-    second: Necromancer_creativekind-Sheet_16
+      213: 2186716042008842563
+    second: 569_16
   - first:
-      213: -8088590533702708879
-    second: Necromancer_creativekind-Sheet_17
+      213: -8379625266556328304
+    second: 569_17
   - first:
-      213: 8454137596207621691
-    second: Necromancer_creativekind-Sheet_18
+      213: -27679027346271792
+    second: 569_18
   - first:
-      213: -7179664217565128756
-    second: Necromancer_creativekind-Sheet_19
+      213: 7160808892727761430
+    second: 569_19
   - first:
-      213: -3504293129191921647
-    second: Necromancer_creativekind-Sheet_20
+      213: 6071061749984468416
+    second: 569_20
   - first:
-      213: -5942966415196517268
-    second: Necromancer_creativekind-Sheet_21
+      213: 5735756906387792355
+    second: 569_21
   - first:
-      213: 1415119415282973194
-    second: Necromancer_creativekind-Sheet_22
+      213: 2623615691473127095
+    second: 569_22
   - first:
-      213: -8977284430043131677
-    second: Necromancer_creativekind-Sheet_23
+      213: 1507263637300183655
+    second: 569_23
   - first:
-      213: 3804686735229137515
-    second: Necromancer_creativekind-Sheet_24
+      213: -6918890451176388157
+    second: 569_24
   - first:
-      213: -6433735340031378816
-    second: Necromancer_creativekind-Sheet_25
+      213: -2643637529223772380
+    second: 569_25
   - first:
-      213: 2971838691767206909
-    second: Necromancer_creativekind-Sheet_26
+      213: -5629472659010765726
+    second: 569_26
   - first:
-      213: 7168639109887949909
-    second: Necromancer_creativekind-Sheet_27
+      213: 2396033673466352693
+    second: 569_27
   - first:
-      213: 8227030434841246746
-    second: Necromancer_creativekind-Sheet_28
+      213: -7536810569295509887
+    second: 569_28
   - first:
-      213: 5768556887167456969
-    second: Necromancer_creativekind-Sheet_29
+      213: 3784615897667953522
+    second: 569_29
   - first:
-      213: 5808652617457255050
-    second: Necromancer_creativekind-Sheet_30
+      213: 4428235822045777119
+    second: 569_30
   - first:
-      213: 6703460316570156537
-    second: Necromancer_creativekind-Sheet_31
+      213: -7926549367800156220
+    second: 569_31
   - first:
-      213: 5508953988207772036
-    second: Necromancer_creativekind-Sheet_32
+      213: 2238723446248502232
+    second: 569_32
   - first:
-      213: -3018430717577881889
-    second: Necromancer_creativekind-Sheet_33
+      213: 2359816114498305902
+    second: 569_33
   - first:
-      213: -4678769115671972293
-    second: Necromancer_creativekind-Sheet_34
+      213: -1829592710340591461
+    second: 569_34
   - first:
-      213: 1725677765547317832
-    second: Necromancer_creativekind-Sheet_35
+      213: 335635805926473161
+    second: 569_35
   - first:
-      213: -5992090393063052899
-    second: Necromancer_creativekind-Sheet_36
+      213: -4779295928077799322
+    second: 569_36
   - first:
-      213: -6151252522343089175
-    second: Necromancer_creativekind-Sheet_37
+      213: 2408121172463253794
+    second: 569_37
   - first:
-      213: -7999851007023554143
-    second: Necromancer_creativekind-Sheet_38
+      213: 8379342021516140772
+    second: 569_38
   - first:
-      213: 7406382053041856201
-    second: Necromancer_creativekind-Sheet_39
+      213: -5712716447429631857
+    second: 569_39
   - first:
-      213: 4989801179615630958
-    second: Necromancer_creativekind-Sheet_40
+      213: 8165728753224831433
+    second: 569_40
   - first:
-      213: -7133359863409537716
-    second: Necromancer_creativekind-Sheet_41
+      213: 2870788026678884180
+    second: 569_41
   - first:
-      213: 896688787591162570
-    second: Necromancer_creativekind-Sheet_42
+      213: -2831836134852145732
+    second: 569_42
   - first:
-      213: 5748698814949677324
-    second: Necromancer_creativekind-Sheet_43
+      213: -4725363844472551606
+    second: 569_43
   - first:
-      213: 4936108732939282069
-    second: Necromancer_creativekind-Sheet_44
+      213: -3186247172607024591
+    second: 569_44
   - first:
-      213: 1228127478403369585
-    second: Necromancer_creativekind-Sheet_45
+      213: 6008286695764275787
+    second: 569_45
   - first:
-      213: -8429442283839558898
-    second: Necromancer_creativekind-Sheet_46
+      213: -69780904247237822
+    second: 569_46
   - first:
-      213: -8502891535723556308
-    second: Necromancer_creativekind-Sheet_47
+      213: -3856726740771462848
+    second: 569_47
   - first:
-      213: -801924938021301555
-    second: Necromancer_creativekind-Sheet_48
+      213: 2578182899465918926
+    second: 569_48
   - first:
-      213: -5290776392082281392
-    second: Necromancer_creativekind-Sheet_49
+      213: 1754183450899711934
+    second: 569_49
   - first:
-      213: 7922497380735499603
-    second: Necromancer_creativekind-Sheet_50
+      213: 2690614168149632822
+    second: 569_50
   - first:
-      213: 1961549917889602363
-    second: Necromancer_creativekind-Sheet_51
+      213: 5254136343665955635
+    second: 569_51
   - first:
-      213: -3221689594328364718
-    second: Necromancer_creativekind-Sheet_52
+      213: -1905333345683243731
+    second: 569_52
   - first:
-      213: 2494120712957748194
-    second: Necromancer_creativekind-Sheet_53
+      213: 2107932861494118562
+    second: 569_53
   - first:
-      213: 6728341523732148801
-    second: Necromancer_creativekind-Sheet_54
+      213: -4732082786437052744
+    second: 569_54
   - first:
-      213: 8748716766709744194
-    second: Necromancer_creativekind-Sheet_55
+      213: -313790980758349907
+    second: 569_55
   - first:
-      213: 7125470657563129707
-    second: Necromancer_creativekind-Sheet_56
+      213: 5023975589108543080
+    second: 569_56
   - first:
-      213: 2120964643705785711
-    second: Necromancer_creativekind-Sheet_57
+      213: -5696567430646307735
+    second: 569_57
   - first:
-      213: 4131399265391528535
-    second: Necromancer_creativekind-Sheet_58
+      213: -4848652672900375097
+    second: 569_58
   - first:
-      213: -8383039347371919889
-    second: Necromancer_creativekind-Sheet_59
+      213: -9004892205545845274
+    second: 569_59
   - first:
-      213: 2278041805513999404
-    second: Necromancer_creativekind-Sheet_60
+      213: -93129754038477691
+    second: 569_60
   - first:
-      213: 5466574199746765729
-    second: Necromancer_creativekind-Sheet_61
+      213: -2353130460401012371
+    second: 569_61
   - first:
-      213: -1697890888660672644
-    second: Necromancer_creativekind-Sheet_62
+      213: -297965464514083446
+    second: 569_62
   - first:
-      213: 6619643419501727748
-    second: Necromancer_creativekind-Sheet_63
+      213: -7561528750665671719
+    second: 569_63
   - first:
-      213: -326042245422579679
-    second: Necromancer_creativekind-Sheet_64
+      213: 2894420154059076509
+    second: 569_64
   - first:
-      213: 476777190075610078
-    second: Necromancer_creativekind-Sheet_65
+      213: 284204829683045888
+    second: 569_65
   - first:
-      213: 5998955373277335431
-    second: Necromancer_creativekind-Sheet_66
+      213: -2949836293390711855
+    second: 569_66
   - first:
-      213: 9181689732615545609
-    second: Necromancer_creativekind-Sheet_67
+      213: 4955492959694206097
+    second: 569_67
   - first:
-      213: -86604740489076452
-    second: Necromancer_creativekind-Sheet_68
+      213: 196500141724353097
+    second: 569_68
   - first:
-      213: 5353416216312683108
-    second: Necromancer_creativekind-Sheet_69
+      213: 1415740884391309372
+    second: 569_69
   - first:
-      213: 4190266111177872282
-    second: Necromancer_creativekind-Sheet_70
+      213: -3848063577007914448
+    second: 569_70
   - first:
-      213: 2167684639046566054
-    second: Necromancer_creativekind-Sheet_71
+      213: 6917656419335569655
+    second: 569_71
   - first:
-      213: -4903568464593199661
-    second: Necromancer_creativekind-Sheet_72
+      213: -8551867965867189854
+    second: 569_72
   - first:
-      213: -2310375371450384536
-    second: Necromancer_creativekind-Sheet_73
+      213: 5562608881080083529
+    second: 569_73
   - first:
-      213: -5406343596698597059
-    second: Necromancer_creativekind-Sheet_74
+      213: -2928600365248167736
+    second: 569_74
   - first:
-      213: 8956007108187967498
-    second: Necromancer_creativekind-Sheet_75
+      213: -7869067515073363342
+    second: 569_75
   - first:
-      213: -3680254216025182588
-    second: Necromancer_creativekind-Sheet_76
+      213: 7516765116337865813
+    second: 569_76
   - first:
-      213: -7300259317662599779
-    second: Necromancer_creativekind-Sheet_77
+      213: -3240486992259649479
+    second: 569_77
   - first:
-      213: 6496428792346290078
-    second: Necromancer_creativekind-Sheet_78
+      213: -2272386910861681899
+    second: 569_78
   - first:
-      213: 8940408319640918415
-    second: Necromancer_creativekind-Sheet_79
+      213: -6756273075788741408
+    second: 569_79
   - first:
-      213: -8694352786607966535
-    second: Necromancer_creativekind-Sheet_80
+      213: -2421818660694888183
+    second: 569_80
   - first:
-      213: -3584640848549391509
-    second: Necromancer_creativekind-Sheet_81
+      213: -1439694655583617788
+    second: 569_81
   - first:
-      213: -7257632773017354020
-    second: Necromancer_creativekind-Sheet_82
+      213: -2947650730537279733
+    second: 569_82
   - first:
-      213: 1264699256818928894
-    second: Necromancer_creativekind-Sheet_83
+      213: -7724056731285057256
+    second: 569_83
   - first:
-      213: -2332952507496710784
-    second: Necromancer_creativekind-Sheet_84
+      213: 9022166262472100408
+    second: 569_84
   - first:
-      213: -6089289543926980186
-    second: Necromancer_creativekind-Sheet_85
+      213: -6810475638903402774
+    second: 569_85
   - first:
-      213: -4099545101555191920
-    second: Necromancer_creativekind-Sheet_86
+      213: -4139475470694076046
+    second: 569_86
   - first:
-      213: -5372743616513731964
-    second: Necromancer_creativekind-Sheet_87
+      213: 8999070591935983176
+    second: 569_87
   - first:
-      213: -4732529028700553510
-    second: Necromancer_creativekind-Sheet_88
+      213: -7041476076641295863
+    second: 569_88
   - first:
-      213: -5775585140605570671
-    second: Necromancer_creativekind-Sheet_89
+      213: -7279760786304139123
+    second: 569_89
   - first:
-      213: 4240549726142307249
-    second: Necromancer_creativekind-Sheet_90
+      213: -6023644859691246211
+    second: 569_90
   - first:
-      213: -5913613643364556608
-    second: Necromancer_creativekind-Sheet_91
+      213: 6894157743768521878
+    second: 569_91
   - first:
-      213: 5810491031328419611
-    second: Necromancer_creativekind-Sheet_92
+      213: 8456265099616773406
+    second: 569_92
   - first:
-      213: 7370464250161390164
-    second: Necromancer_creativekind-Sheet_93
+      213: -1521971563191913926
+    second: 569_93
   - first:
-      213: -748304989333182558
-    second: Necromancer_creativekind-Sheet_94
+      213: -3070139981823652100
+    second: 569_94
   - first:
-      213: 5261171437189393204
-    second: Necromancer_creativekind-Sheet_95
+      213: -8910048551431962828
+    second: 569_95
   - first:
-      213: -3830370920710845333
-    second: Necromancer_creativekind-Sheet_96
+      213: 8658459357660143921
+    second: 569_96
   - first:
-      213: -6708113350699044289
-    second: Necromancer_creativekind-Sheet_97
+      213: 2669992347135890206
+    second: 569_97
   - first:
-      213: -9029254278262725590
-    second: Necromancer_creativekind-Sheet_98
+      213: -8179808204167974760
+    second: 569_98
   - first:
-      213: 3052978708878726302
-    second: Necromancer_creativekind-Sheet_99
+      213: -8460585833371778511
+    second: 569_99
   - first:
-      213: -2179209886628262462
-    second: Necromancer_creativekind-Sheet_100
+      213: 4251662458390868026
+    second: 569_100
   - first:
-      213: -5710874342980937918
-    second: Necromancer_creativekind-Sheet_101
+      213: 593136260791007196
+    second: 569_101
   - first:
-      213: -4837754662325245234
-    second: Necromancer_creativekind-Sheet_102
+      213: 5930704842596057294
+    second: 569_102
   - first:
-      213: 5811745096133161095
-    second: Necromancer_creativekind-Sheet_103
+      213: 7873203764106621417
+    second: 569_103
   - first:
-      213: -5693061042231786451
-    second: Necromancer_creativekind-Sheet_104
+      213: 1903282467656383474
+    second: 569_104
   - first:
-      213: 1765224494140283864
-    second: Necromancer_creativekind-Sheet_105
+      213: -5242419762608438004
+    second: 569_105
   - first:
-      213: -3454313366249001710
-    second: Necromancer_creativekind-Sheet_106
+      213: 3267220528799355550
+    second: 569_106
   - first:
-      213: 687154573105333851
-    second: Necromancer_creativekind-Sheet_107
+      213: -1968180129973085670
+    second: 569_107
   - first:
-      213: 8749674205095384052
-    second: Necromancer_creativekind-Sheet_108
+      213: -6828281810653402742
+    second: 569_108
   - first:
-      213: 2919077324121793182
-    second: Necromancer_creativekind-Sheet_109
+      213: 6293246067862875514
+    second: 569_109
   - first:
-      213: -1986176845090413514
-    second: Necromancer_creativekind-Sheet_110
+      213: 6889185352478652221
+    second: 569_110
   - first:
-      213: 658437834303915385
-    second: Necromancer_creativekind-Sheet_111
+      213: 3720337064179669202
+    second: 569_111
   - first:
-      213: -9103516604847202744
-    second: Necromancer_creativekind-Sheet_112
+      213: 6921753371739596358
+    second: 569_112
   - first:
-      213: 239341461543406756
-    second: Necromancer_creativekind-Sheet_113
+      213: -9178027158850233182
+    second: 569_113
   - first:
-      213: 7388515533423084179
-    second: Necromancer_creativekind-Sheet_114
+      213: -7672138975433196805
+    second: 569_114
   - first:
-      213: 3027018674028150804
-    second: Necromancer_creativekind-Sheet_115
+      213: -5386694096254444536
+    second: 569_115
   - first:
-      213: -2609202173816611526
-    second: Necromancer_creativekind-Sheet_116
+      213: -3456290295429829564
+    second: 569_116
   - first:
-      213: -3511112484635540805
-    second: Necromancer_creativekind-Sheet_117
+      213: 5118348977277307067
+    second: 569_117
   - first:
-      213: -1866021672176291980
-    second: Necromancer_creativekind-Sheet_118
+      213: -8327230285669804372
+    second: 569_118
   - first:
-      213: -3743082621333475084
-    second: Necromancer_creativekind-Sheet_119
+      213: 2625167060949592094
+    second: 569_119
   - first:
-      213: 1817393692322061572
-    second: Necromancer_creativekind-Sheet_120
+      213: -7239799545867553373
+    second: 569_120
   - first:
-      213: -7805312089944264739
-    second: Necromancer_creativekind-Sheet_121
+      213: -3200008862606364909
+    second: 569_121
   - first:
-      213: -5108285143133772489
-    second: Necromancer_creativekind-Sheet_122
+      213: 8446382864279557155
+    second: 569_122
   - first:
-      213: 6752749481126023513
-    second: Necromancer_creativekind-Sheet_123
+      213: 3630415557380713751
+    second: 569_123
   - first:
-      213: -2464581343329637617
-    second: Necromancer_creativekind-Sheet_124
+      213: -3376210600242648812
+    second: 569_124
   - first:
-      213: -4314743124427765894
-    second: Necromancer_creativekind-Sheet_125
-  - first:
-      213: -8326669287464190943
-    second: Necromancer_creativekind-Sheet_126
-  - first:
-      213: -6038739261429636643
-    second: Necromancer_creativekind-Sheet_127
-  - first:
-      213: -3986094852908507903
-    second: Necromancer_creativekind-Sheet_128
-  - first:
-      213: 700642822453713907
-    second: Necromancer_creativekind-Sheet_129
-  - first:
-      213: -4424066757245579134
-    second: Necromancer_creativekind-Sheet_130
-  - first:
-      213: -2328598748499522770
-    second: Necromancer_creativekind-Sheet_131
-  - first:
-      213: -6587734183650847701
-    second: Necromancer_creativekind-Sheet_132
-  - first:
-      213: 3981028494579430425
-    second: Necromancer_creativekind-Sheet_133
-  - first:
-      213: 7730315902241396237
-    second: Necromancer_creativekind-Sheet_134
-  - first:
-      213: 8145381734567597966
-    second: Necromancer_creativekind-Sheet_135
-  - first:
-      213: 3603800689535658461
-    second: Necromancer_creativekind-Sheet_136
-  - first:
-      213: 5211795056589133095
-    second: Necromancer_creativekind-Sheet_137
+      213: 4432535342663563186
+    second: 569_125
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -448,7 +412,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -462,7 +426,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -524,13 +488,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_0
+      name: 569_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 781
-        width: 44
-        height: 53
+        x: 146
+        y: 524
+        width: 26
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,20 +503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4176f5dd085a77b10800000000000000
-      internalID: 1979232534141036308
+      spriteID: 3cba03f6e7ee88b20800000000000000
+      internalID: 3137019367262301123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_1
+      name: 569_1
       rect:
         serializedVersion: 2
-        x: 220
-        y: 781
-        width: 44
-        height: 55
+        x: 208
+        y: 524
+        width: 31
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,20 +525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95d8718ca76add0c0800000000000000
-      internalID: -4549297002301125287
+      spriteID: 144f1b19821b5ac10800000000000000
+      internalID: 2064250792020407361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_2
+      name: 569_2
       rect:
         serializedVersion: 2
-        x: 381
-        y: 783
-        width: 44
-        height: 55
+        x: 271
+        y: 524
+        width: 34
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,459 +547,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cba2804555d0e5ab0800000000000000
-      internalID: -5017558274710951236
+      spriteID: 924629b744550cf50800000000000000
+      internalID: 6899608381750928425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_3
+      name: 569_3
       rect:
         serializedVersion: 2
-        x: 541
-        y: 784
-        width: 43
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88876b10d2eb0d7b0800000000000000
-      internalID: -5201448469101381496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 701
-        y: 784
-        width: 44
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c452dde999dcb4440800000000000000
-      internalID: 4921253077511382348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 861
-        y: 783
-        width: 43
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01117d6568e066100800000000000000
-      internalID: 100784011807756560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 1021
-        y: 781
-        width: 44
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 601c46523af8096d0800000000000000
-      internalID: -2985728622076837626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 1181
-        y: 781
-        width: 44
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bddcda92b41bd3540800000000000000
-      internalID: 4989338898576297435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_8
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 652
-        width: 40
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fbc7ee3b0c8781e0800000000000000
-      internalID: -2195632313391920141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 650
-        width: 42
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21be626c70c8da320800000000000000
-      internalID: 2570864927315520274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 385
-        y: 650
-        width: 40
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c59958df19f510c0800000000000000
-      internalID: -4605501128747412024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 648
-        width: 39
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ef5d0057608cc5c0800000000000000
-      internalID: -4193835971775733785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 705
-        y: 649
-        width: 40
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b500b6bf13125f20800000000000000
-      internalID: 3409808894802789817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 865
-        y: 650
-        width: 39
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93ed2b6c9c6c1e870800000000000000
-      internalID: 8710461724235587129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 1025
-        y: 652
-        width: 40
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10f32292bb97d2bd0800000000000000
-      internalID: -2653330760695398655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 1185
-        y: 653
-        width: 41
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 330853b50b11fd8d0800000000000000
-      internalID: -2819515392568491981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 861
-        y: 530
-        width: 43
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 160f0cd47988b2dc0800000000000000
-      internalID: -3662683688509837215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 1021
-        y: 530
-        width: 43
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1711019c3cd8fbf80800000000000000
-      internalID: -8088590533702708879
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 1181
-        y: 530
-        width: 44
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b36ea301a51235570800000000000000
-      internalID: 8454137596207621691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 1341
-        y: 530
-        width: 61
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc792710f65bc5c90800000000000000
-      internalID: -7179664217565128756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 1501
-        y: 528
-        width: 49
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1186cad27ff3e5fc0800000000000000
-      internalID: -3504293129191921647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 1681
-        y: 603
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6c82265887568da0800000000000000
-      internalID: -5942966415196517268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 1696
-        y: 603
-        width: 17
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0a33be4c9383a310800000000000000
-      internalID: 1415119415282973194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 1835
-        y: 589
-        width: 60
+        x: 333
+        y: 524
+        width: 38
         height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1045,196 +569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e052a3ef574a6380800000000000000
-      internalID: -8977284430043131677
+      spriteID: c22db0547245ace00800000000000000
+      internalID: 1065756789465403948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_24
+      name: 569_4
       rect:
         serializedVersion: 2
-        x: 381
-        y: 526
-        width: 41
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6239f67d66fcc430800000000000000
-      internalID: 3804686735229137515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 527
-        width: 42
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08a7d8eabc7c6b6a0800000000000000
-      internalID: -6433735340031378816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 701
-        y: 528
-        width: 43
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df3cb807b871e3920800000000000000
-      internalID: 2971838691767206909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 1561
-        y: 589
-        width: 8
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55cf7d31a4f1c7360800000000000000
-      internalID: 7168639109887949909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 1661
-        y: 527
-        width: 42
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a1c3a0187984c2270800000000000000
-      internalID: 8227030434841246746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 1711
-        y: 589
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c6df3efce70e0050800000000000000
-      internalID: 5768556887167456969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 1728
-        y: 589
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a82ce2fa7ca7c9050800000000000000
-      internalID: 5808652617457255050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 1820
-        y: 589
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9fd771734a9770d50800000000000000
-      internalID: 6703460316570156537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 61
+        x: 396
         y: 524
-        width: 43
-        height: 53
+        width: 40
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,20 +591,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 481881fe67cb37c40800000000000000
-      internalID: 5508953988207772036
+      spriteID: 2f1581cae55627f30800000000000000
+      internalID: 4571828029023080946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_33
+      name: 569_5
       rect:
         serializedVersion: 2
-        x: 220
-        y: 526
-        width: 42
-        height: 57
+        x: 460
+        y: 524
+        width: 39
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,20 +613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd694a331416c16d0800000000000000
-      internalID: -3018430717577881889
+      spriteID: 1c4efdeacf4c423a0800000000000000
+      internalID: -6691006556821003071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_34
+      name: 569_6
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 577
-        width: 4
-        height: 4
+        x: 525
+        y: 524
+        width: 36
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,20 +635,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b36bd4a474ca11fb0800000000000000
-      internalID: -4678769115671972293
+      spriteID: c64e9b0bceab2cd80800000000000000
+      internalID: -8231811643139824532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_35
+      name: 569_7
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 526
-        width: 54
-        height: 58
+        x: 589
+        y: 524
+        width: 35
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,20 +657,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84adc34e8c6d2f710800000000000000
-      internalID: 1725677765547317832
+      spriteID: 646f4e29731623950800000000000000
+      internalID: 6427306509526693446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_36
+      name: 569_8
       rect:
         serializedVersion: 2
-        x: 1982
-        y: 526
-        width: 42
-        height: 50
+        x: 654
+        y: 524
+        width: 33
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,20 +679,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d992273f881d7dca0800000000000000
-      internalID: -5992090393063052899
+      spriteID: ca7504974893acd40800000000000000
+      internalID: 5605355927348729772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_37
+      name: 569_9
       rect:
         serializedVersion: 2
-        x: 61
-        y: 396
-        width: 43
-        height: 53
+        x: 676
+        y: 557
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,20 +701,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ebb302fb6c52aaa0800000000000000
-      internalID: -6151252522343089175
+      spriteID: 980322b9609fa0d20800000000000000
+      internalID: 3245680288241692809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_38
+      name: 569_10
       rect:
         serializedVersion: 2
-        x: 220
-        y: 397
-        width: 43
-        height: 58
+        x: 718
+        y: 524
+        width: 33
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,20 +723,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a16f46e4e1daf090800000000000000
-      internalID: -7999851007023554143
+      spriteID: 028dac36c5b801830800000000000000
+      internalID: 4039882094678824992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_39
+      name: 569_11
       rect:
         serializedVersion: 2
-        x: 381
-        y: 398
-        width: 41
-        height: 64
+        x: 783
+        y: 524
+        width: 27
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1397,20 +745,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ce536e8c31c8c660800000000000000
-      internalID: 7406382053041856201
+      spriteID: 95d64e27ef871ff10800000000000000
+      internalID: 2301753918807633241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_40
+      name: 569_12
       rect:
         serializedVersion: 2
-        x: 541
-        y: 400
-        width: 42
-        height: 74
+        x: 25
+        y: 524
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1419,20 +767,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6690da5cb55f3540800000000000000
-      internalID: 4989801179615630958
+      spriteID: ff8ba3b064f91a9c0800000000000000
+      internalID: -3917675077650695937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_41
+      name: 569_13
       rect:
         serializedVersion: 2
-        x: 701
-        y: 400
-        width: 43
-        height: 74
+        x: 86
+        y: 524
+        width: 20
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,20 +789,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4d02769ff6310d90800000000000000
-      internalID: -7133359863409537716
+      spriteID: 16ce0accff154ff80800000000000000
+      internalID: -8073738072876848031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_42
+      name: 569_14
       rect:
         serializedVersion: 2
-        x: 861
-        y: 401
-        width: 43
-        height: 74
+        x: 146
+        y: 460
+        width: 26
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,20 +811,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca627293bda17c00800000000000000
-      internalID: 896688787591162570
+      spriteID: 104cb33f86c77edd0800000000000000
+      internalID: -2456858281508092927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_43
+      name: 569_15
       rect:
         serializedVersion: 2
-        x: 1021
-        y: 402
-        width: 43
-        height: 77
+        x: 208
+        y: 460
+        width: 31
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1485,20 +833,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c09d8c14d1b77cf40800000000000000
-      internalID: 5748698814949677324
+      spriteID: d68dba812e2f3f790800000000000000
+      internalID: -7497381901751297939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_44
+      name: 569_16
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 402
-        width: 44
-        height: 76
+        x: 271
+        y: 460
+        width: 34
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1507,790 +855,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 596ac8f6db4908440800000000000000
-      internalID: 4936108732939282069
+      spriteID: 341d59c87a6c85e10800000000000000
+      internalID: 2186716042008842563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_45
+      name: 569_17
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 401
-        width: 43
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17a01294f6f2b0110800000000000000
-      internalID: 1228127478403369585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_46
-      rect:
-        serializedVersion: 2
-        x: 1501
-        y: 400
-        width: 44
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0be51967ea940b80800000000000000
-      internalID: -8429442283839558898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_47
-      rect:
-        serializedVersion: 2
-        x: 1661
-        y: 400
-        width: 42
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c229581d239aff980800000000000000
-      internalID: -8502891535723556308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_48
-      rect:
-        serializedVersion: 2
-        x: 1821
-        y: 398
-        width: 41
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc296b4848dfed4f0800000000000000
-      internalID: -801924938021301555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_49
-      rect:
-        serializedVersion: 2
-        x: 1982
-        y: 397
-        width: 42
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05ca9e337e26396b0800000000000000
-      internalID: -5290776392082281392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_50
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 268
-        width: 44
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35db3b0846d52fd60800000000000000
-      internalID: 7922497380735499603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_51
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 269
-        width: 44
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b33a101f143d83b10800000000000000
-      internalID: 1961549917889602363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_52
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 269
-        width: 46
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2594c7912624a43d0800000000000000
-      internalID: -3221689594328364718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_53
-      rect:
-        serializedVersion: 2
-        x: 539
-        y: 271
-        width: 45
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e36ac2f295ec9220800000000000000
-      internalID: 2494120712957748194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_54
-      rect:
-        serializedVersion: 2
-        x: 699
-        y: 273
-        width: 46
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 142b091b7fedf5d50800000000000000
-      internalID: 6728341523732148801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_55
-      rect:
-        serializedVersion: 2
-        x: 859
-        y: 273
-        width: 45
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2420d30fb8fa96970800000000000000
-      internalID: 8748716766709744194
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_56
-      rect:
-        serializedVersion: 2
-        x: 1019
-        y: 275
-        width: 46
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b67f4898fc1c2e260800000000000000
-      internalID: 7125470657563129707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_57
-      rect:
-        serializedVersion: 2
-        x: 1178
-        y: 273
-        width: 47
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6d0f392b1e2f6d10800000000000000
-      internalID: 2120964643705785711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_58
-      rect:
-        serializedVersion: 2
-        x: 1337
-        y: 273
-        width: 48
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75ac8f62ebda55930800000000000000
-      internalID: 4131399265391528535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_59
-      rect:
-        serializedVersion: 2
-        x: 1498
-        y: 273
-        width: 47
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe536c9f02679ab80800000000000000
-      internalID: -8383039347371919889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_60
-      rect:
-        serializedVersion: 2
-        x: 1657
-        y: 272
-        width: 48
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c24c629d3fa3d9f10800000000000000
-      internalID: 2278041805513999404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_61
-      rect:
-        serializedVersion: 2
-        x: 1824
-        y: 271
-        width: 41
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a3a832854c2ddb40800000000000000
-      internalID: 5466574199746765729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_62
-      rect:
-        serializedVersion: 2
-        x: 1983
-        y: 269
-        width: 42
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7f120a8b31ef68e0800000000000000
-      internalID: -1697890888660672644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_63
-      rect:
-        serializedVersion: 2
-        x: 2140
-        y: 269
-        width: 45
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 400172f1e92bddb50800000000000000
-      internalID: 6619643419501727748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_64
-      rect:
-        serializedVersion: 2
-        x: 2304
-        y: 267
-        width: 41
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 12001d32e4aa97bf0800000000000000
-      internalID: -326042245422579679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_65
-      rect:
-        serializedVersion: 2
-        x: 2464
-        y: 265
-        width: 41
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed3377b045add9600800000000000000
-      internalID: 476777190075610078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_66
-      rect:
-        serializedVersion: 2
-        x: 2620
-        y: 267
-        width: 46
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78fcd9fc022904350800000000000000
-      internalID: 5998955373277335431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_67
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 139
-        width: 44
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 903a6664a2aeb6f70800000000000000
-      internalID: 9181689732615545609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_68
-      rect:
-        serializedVersion: 2
-        x: 218
-        y: 145
-        width: 44
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c11a84782715ccef0800000000000000
-      internalID: -86604740489076452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_69
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 145
-        width: 43
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46a12246fa72b4a40800000000000000
-      internalID: 5353416216312683108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_70
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 143
-        width: 43
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a935d1fb3d0d62a30800000000000000
-      internalID: 4190266111177872282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_71
-      rect:
-        serializedVersion: 2
-        x: 701
-        y: 139
-        width: 43
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a0017fb1b9251e10800000000000000
-      internalID: 2167684639046566054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_72
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 15
-        width: 46
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dd5d10367603fbb0800000000000000
-      internalID: -4903568464593199661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_73
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 16
-        width: 46
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86f73ee27d5efefd0800000000000000
-      internalID: -2310375371450384536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_74
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 16
-        width: 47
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d398211942fc8f4b0800000000000000
-      internalID: -5406343596698597059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_75
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 60
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a00da6193012a4c70800000000000000
-      internalID: 8956007108187967498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_76
-      rect:
-        serializedVersion: 2
-        x: 693
-        y: 19
-        width: 53
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48e6fa21a4c1decc0800000000000000
-      internalID: -3680254216025182588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_77
-      rect:
-        serializedVersion: 2
-        x: 853
-        y: 19
-        width: 45
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d953c7a34d440ba90800000000000000
-      internalID: -7300259317662599779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_78
-      rect:
-        serializedVersion: 2
-        x: 1009
-        y: 20
-        width: 50
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e97ab6c2193f72a50800000000000000
-      internalID: 6496428792346290078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_79
-      rect:
-        serializedVersion: 2
-        x: 1056
-        y: 58
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f89d4279ff5b21c70800000000000000
-      internalID: 8940408319640918415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_80
-      rect:
-        serializedVersion: 2
-        x: 1167
-        y: 23
+        x: 333
+        y: 460
         width: 38
-        height: 54
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,20 +877,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b6fd4a8434775780800000000000000
-      internalID: -8694352786607966535
+      spriteID: 096a50c973795bb80800000000000000
+      internalID: -8379625266556328304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_81
+      name: 569_18
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 19
-        width: 17
-        height: 50
+        x: 396
+        y: 460
+        width: 40
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2321,19 +899,107 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b63dbd6f32cc04ec0800000000000000
-      internalID: -3584640848549391509
+      spriteID: 0d11c4f321aad9ff0800000000000000
+      internalID: -27679027346271792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_82
+      name: 569_19
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 56
-        width: 7
+        x: 460
+        y: 460
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a1f739fbd406360800000000000000
+      internalID: 7160808892727761430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 460
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1949ee7eb04450800000000000000
+      internalID: 6071061749984468416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_21
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 460
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1ec3b5480899f40800000000000000
+      internalID: 5735756906387792355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 460
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b685652294f86420800000000000000
+      internalID: 2623615691473127095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 493
+        width: 6
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2343,20 +1009,306 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd0411e0275b74b90800000000000000
-      internalID: -7257632773017354020
+      spriteID: 7620424da40eae410800000000000000
+      internalID: 1507263637300183655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_83
+      name: 569_24
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 61
+        x: 718
+        y: 460
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90ac1eac92bff90800000000000000
+      internalID: -6918890451176388157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 460
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c9bb7ca9ef4bd0800000000000000
+      internalID: -2643637529223772380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 460
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb3ee517810e1b0800000000000000
+      internalID: -5629472659010765726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 460
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53416d86eeb604120800000000000000
+      internalID: 2396033673466352693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 396
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864bbd08bed76790800000000000000
+      internalID: -7536810569295509887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 396
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736bcf6b18a58430800000000000000
+      internalID: 3784615897667953522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 396
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc2b2b401447d30800000000000000
+      internalID: 4428235822045777119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 396
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfacadb85d3ff190800000000000000
+      internalID: -7926549367800156220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3faf3fc1b811f10800000000000000
+      internalID: 2238723446248502232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 396
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff9e7d040cfb020800000000000000
+      internalID: 2359816114498305902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 396
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904180af1bfb96e0800000000000000
+      internalID: -1829592710340591461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 396
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd362abcfa68a400800000000000000
+      internalID: 335635805926473161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 396
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b37adca78cadb0800000000000000
+      internalID: -4779295928077799322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 429
         width: 6
-        height: 9
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2365,20 +1317,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: efc846ef54d1d8110800000000000000
-      internalID: 1264699256818928894
+      spriteID: 229f4c4927d5b6120800000000000000
+      internalID: 2408121172463253794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_84
+      name: 569_38
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 52
-        width: 8
-        height: 10
+        x: 718
+        y: 396
+        width: 33
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2387,20 +1339,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08d3dc01e00bf9fd0800000000000000
-      internalID: -2332952507496710784
+      spriteID: 4e029f34c27694470800000000000000
+      internalID: 8379342021516140772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_85
+      name: 569_39
       rect:
         serializedVersion: 2
-        x: 1339
-        y: 60
-        width: 24
-        height: 20
+        x: 783
+        y: 396
+        width: 27
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2409,20 +1361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a16bb71c6f7e7ba0800000000000000
-      internalID: -6089289543926980186
+      spriteID: f80ec6888aa58b0b0800000000000000
+      internalID: -5712716447429631857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_86
+      name: 569_40
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 58
-        width: 8
-        height: 7
+        x: 25
+        y: 396
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2431,20 +1383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09f2c11537d7b17c0800000000000000
-      internalID: -4099545101555191920
+      spriteID: 9c1d824890f725170800000000000000
+      internalID: 8165728753224831433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_87
+      name: 569_41
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 38
-        width: 17
-        height: 32
+        x: 86
+        y: 396
+        width: 20
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2453,20 +1405,1560 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4829374952e2075b0800000000000000
-      internalID: -5372743616513731964
+      spriteID: 457b3ab008617d720800000000000000
+      internalID: 2870788026678884180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_88
+      name: 569_42
       rect:
         serializedVersion: 2
-        x: 61
+        x: 146
+        y: 332
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc5000a0c43b8d0800000000000000
+      internalID: -2831836134852145732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a474db79e922c6eb0800000000000000
+      internalID: -4725363844472551606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 332
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326a26f31d28c3d0800000000000000
+      internalID: -3186247172607024591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 332
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b423cb1aae8b16350800000000000000
+      internalID: 6008286695764275787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ec3623a6180ff0800000000000000
+      internalID: -69780904247237822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 332
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041219c86772a7ac0800000000000000
+      internalID: -3856726740771462848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 332
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec917a0ffab87c320800000000000000
+      internalID: 2578182899465918926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 332
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb70fb5fd8c185810800000000000000
+      internalID: 1754183450899711934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 332
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6372138945bf65520800000000000000
+      internalID: 2690614168149632822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ddadba217ae840800000000000000
+      internalID: 5254136343665955635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 332
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df7dfba65ee85e0800000000000000
+      internalID: -1905333345683243731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_53
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 332
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8cabbe4c1e04d10800000000000000
+      internalID: 2107932861494118562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 332
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6cda207c3445eb0800000000000000
+      internalID: -4732082786437052744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 332
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da75d2af3c035abf0800000000000000
+      internalID: -313790980758349907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 268
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6c0d1e2fb8b540800000000000000
+      internalID: 5023975589108543080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96464418a1ab1f0b0800000000000000
+      internalID: -5696567430646307735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 268
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5680551026bcb0800000000000000
+      internalID: -4848652672900375097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 268
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed81cfbf32380380800000000000000
+      internalID: -9004892205545845274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 268
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c548c6bf225bef0800000000000000
+      internalID: -93129754038477691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_61
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 268
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6175ad4050085fd0800000000000000
+      internalID: -2353130460401012371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 268
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85cd4c1df96ddbf0800000000000000
+      internalID: -297965464514083446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_63
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 268
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db5ba9f9ad001790800000000000000
+      internalID: -7561528750665671719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_64
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 268
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933c697bcb0b2820800000000000000
+      internalID: 2894420154059076509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_65
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 301
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00655bc69c2b1f300800000000000000
+      internalID: 284204829683045888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_66
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 268
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d344e225831017d0800000000000000
+      internalID: -2949836293390711855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_67
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 268
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194b58d679275c440800000000000000
+      internalID: 4955492959694206097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_68
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 268
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9424bc976db1ab200800000000000000
+      internalID: 196500141724353097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30342c55d8b5a310800000000000000
+      internalID: 1415740884391309372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 204
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032035b809ee89ac0800000000000000
+      internalID: -3848063577007914448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f082b0bcd3700060800000000000000
+      internalID: 6917656419335569655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 204
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a991701569a15980800000000000000
+      internalID: -8551867965867189854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 204
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944263d2e4b523d40800000000000000
+      internalID: 5562608881080083529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_74
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 204
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0cd44fb758b57d0800000000000000
+      internalID: -2928600365248167736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 204
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728c7289c47bc290800000000000000
+      internalID: -7869067515073363342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_76
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 204
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554cd5b3c0ae05860800000000000000
+      internalID: 7516765116337865813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_77
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 204
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f617df3a7703d0800000000000000
+      internalID: -3240486992259649479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_78
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 204
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b97d9e42cd670e0800000000000000
+      internalID: -2272386910861681899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_79
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e483101f65ec32a0800000000000000
+      internalID: -6756273075788741408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_80
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 204
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9017eda62c8f36ed0800000000000000
+      internalID: -2421818660694888183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_81
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 204
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40df8eca65d250ce0800000000000000
+      internalID: -1439694655583617788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_82
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 204
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f97642747d717d0800000000000000
+      internalID: -2947650730537279733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 204
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8111ac2a353aec490800000000000000
+      internalID: -7724056731285057256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 140
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac92b0a6c253d70800000000000000
+      internalID: 9022166262472100408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 140
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee06b76d745c71a0800000000000000
+      internalID: -6810475638903402774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 140
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27136d4cdf0ad86c0800000000000000
+      internalID: -4139475470694076046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 140
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2205360f13ec70800000000000000
+      internalID: 8999070591935983176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 140
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902626dc0d6a74e90800000000000000
+      internalID: -7041476076641295863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_89
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 140
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80068a722819fa90800000000000000
+      internalID: -7279760786304139123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_90
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 140
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ddefc2ae6b76ca0800000000000000
+      internalID: -6023644859691246211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_91
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 140
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc4dee0f7fcaf50800000000000000
+      internalID: 6894157743768521878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_92
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 140
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e03d0e40ba5570800000000000000
+      internalID: 8456265099616773406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_93
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3233b15deed0eae0800000000000000
+      internalID: -1521971563191913926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_94
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 140
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe4dace3fba465d0800000000000000
+      internalID: -3070139981823652100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_95
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 140
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff968cc06295480800000000000000
+      internalID: -8910048551431962828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 140
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316d7b49e6092870800000000000000
+      internalID: 8658459357660143921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13db0cb4e7bd0520800000000000000
+      internalID: 2669992347135890206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890fdbbd6cb7b7e80800000000000000
+      internalID: -8179808204167974760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 76
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1324c2ab206f59a80800000000000000
+      internalID: -8460585833371778511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 76
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307049ca70f00b30800000000000000
+      internalID: 4251662458390868026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_101
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 76
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f9df594e3b3800800000000000000
+      internalID: 593136260791007196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec080a2d1a81e4250800000000000000
+      internalID: 5930704842596057294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_103
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f7d30c1d334d60800000000000000
+      internalID: 7873203764106621417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_104
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 76
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb33eff151d96a10800000000000000
+      internalID: 1903282467656383474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_105
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 76
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058c3e500f2f37b0800000000000000
+      internalID: -5242419762608438004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_106
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 76
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9213fda2cf775d20800000000000000
+      internalID: 3267220528799355550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_107
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad8f2899e9fa4e0800000000000000
+      internalID: -1968180129973085670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_108
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 76
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892eb9fed11d31a0800000000000000
+      internalID: -6828281810653402742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_109
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 76
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d2717a4f9165750800000000000000
+      internalID: 6293246067862875514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 76
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37705ed39d4b9f50800000000000000
+      internalID: 6889185352478652221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_111
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 76
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8162349da41a330800000000000000
+      internalID: 3720337064179669202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_112
+      rect:
+        serializedVersion: 2
+        x: 146
         y: 12
-        width: 43
-        height: 48
+        width: 26
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2475,20 +2967,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ade34132ceda25eb0800000000000000
-      internalID: -4732529028700553510
+      spriteID: 646a661c4020f0060800000000000000
+      internalID: 6921753371739596358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_89
+      name: 569_113
       rect:
         serializedVersion: 2
-        x: 422
-        y: 53
-        width: 4
-        height: 4
+        x: 208
+        y: 12
+        width: 31
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,20 +2989,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1913e2c3aeff8dfa0800000000000000
-      internalID: -5775585140605570671
+      spriteID: 2ac18d12de811a080800000000000000
+      internalID: -9178027158850233182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_90
+      name: 569_114
       rect:
         serializedVersion: 2
-        x: 582
-        y: 54
-        width: 4
-        height: 4
+        x: 271
+        y: 12
+        width: 34
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2519,20 +3011,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1bb971f228579da30800000000000000
-      internalID: 4240549726142307249
+      spriteID: bfaffd52046178590800000000000000
+      internalID: -7672138975433196805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_91
+      name: 569_115
       rect:
         serializedVersion: 2
-        x: 1347
-        y: 46
-        width: 13
-        height: 12
+        x: 333
+        y: 12
+        width: 38
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2541,20 +3033,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c02a5819bf9eeda0800000000000000
-      internalID: -5913613643364556608
+      spriteID: 80c5f07624e9e35b0800000000000000
+      internalID: -5386694096254444536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_92
+      name: 569_116
       rect:
         serializedVersion: 2
-        x: 1356
-        y: 54
-        width: 7
-        height: 6
+        x: 396
+        y: 12
+        width: 40
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2563,20 +3055,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1f6ce4cec203a050800000000000000
-      internalID: 5810491031328419611
+      spriteID: 44c664cd94ac800d0800000000000000
+      internalID: -3456290295429829564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_93
+      name: 569_117
       rect:
         serializedVersion: 2
-        x: 1379
-        y: 48
-        width: 4
-        height: 6
+        x: 460
+        y: 12
+        width: 39
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2585,20 +3077,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 452e5946f26294660800000000000000
-      internalID: 7370464250161390164
+      spriteID: bb80913d647080740800000000000000
+      internalID: 5118348977277307067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_94
+      name: 569_118
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 42
-        width: 8
-        height: 11
+        x: 525
+        y: 12
+        width: 36
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2607,20 +3099,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a7a42fa39c7d95f0800000000000000
-      internalID: -748304989333182558
+      spriteID: ca6d6cbbc2cbf6c80800000000000000
+      internalID: -8327230285669804372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_95
+      name: 569_119
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 31
-        width: 8
-        height: 11
+        x: 589
+        y: 12
+        width: 35
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2629,20 +3121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43bea181c8f630940800000000000000
-      internalID: 5261171437189393204
+      spriteID: e18e4ff78877e6420800000000000000
+      internalID: 2625167060949592094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_96
+      name: 569_120
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 16
-        width: 10
-        height: 17
+        x: 654
+        y: 12
+        width: 33
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2651,216 +3143,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6c4b0911f9c7dac0800000000000000
-      internalID: -3830370920710845333
+      spriteID: 3a5b78fcba0178b90800000000000000
+      internalID: -7239799545867553373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_97
+      name: 569_121
       rect:
         serializedVersion: 2
-        x: 1175
-        y: 27
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f32378ad27ef7e2a0800000000000000
-      internalID: -6708113350699044289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_98
-      rect:
-        serializedVersion: 2
-        x: 1197
-        y: 15
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a24697da215a1b280800000000000000
-      internalID: -9029254278262725590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_99
-      rect:
-        serializedVersion: 2
-        x: 1333
-        y: 33
-        width: 11
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e941c89d5fb5e5a20800000000000000
-      internalID: 3052978708878726302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_100
-      rect:
-        serializedVersion: 2
-        x: 1349
-        y: 21
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2cdc0807724e1c1e0800000000000000
-      internalID: -2179209886628262462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_101
-      rect:
-        serializedVersion: 2
-        x: 1375
-        y: 27
-        width: 4
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2479ab5ea06eeb0b0800000000000000
-      internalID: -5710874342980937918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_102
-      rect:
-        serializedVersion: 2
-        x: 1020
-        y: 19
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eca2d9124c7dcdcb0800000000000000
-      internalID: -4837754662325245234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_103
-      rect:
-        serializedVersion: 2
-        x: 1182
-        y: 19
-        width: 5
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 780b22c7f5777a050800000000000000
-      internalID: 5811745096133161095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_104
-      rect:
-        serializedVersion: 2
-        x: 1329
-        y: 27
-        width: 8
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d24c82d252f2ef0b0800000000000000
-      internalID: -5693061042231786451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_105
-      rect:
-        serializedVersion: 2
-        x: 1333
-        y: 17
-        width: 12
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8dbdc0a23565f7810800000000000000
-      internalID: 1765224494140283864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_106
-      rect:
-        serializedVersion: 2
-        x: 1175
-        y: 17
+        x: 676
+        y: 45
         width: 6
         height: 6
       alignment: 0
@@ -2871,20 +3165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21d28dd8b40df00d0800000000000000
-      internalID: -3454313366249001710
+      spriteID: 31fee32d4e84793d0800000000000000
+      internalID: -3200008862606364909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_107
+      name: 569_122
       rect:
         serializedVersion: 2
-        x: 1364
-        y: 15
-        width: 4
-        height: 4
+        x: 718
+        y: 12
+        width: 33
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2893,20 +3187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b568abb8173498900800000000000000
-      internalID: 687154573105333851
+      spriteID: 3245456d674973570800000000000000
+      internalID: 8446382864279557155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Necromancer_creativekind-Sheet_108
+      name: 569_123
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 19
-        width: 4
-        height: 4
+        x: 783
+        y: 12
+        width: 27
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2915,8 +3209,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f3db1fe4561d6970800000000000000
-      internalID: 8749674205095384052
+      spriteID: 71daab4f6b3d16230800000000000000
+      internalID: 3630415557380713751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_124
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 12
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e0a5d85a4521d0800000000000000
+      internalID: -3376210600242648812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 569_125
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b773d9d867838d30800000000000000
+      internalID: 4432535342663563186
       vertices: []
       indices: 
       edges: []
@@ -2925,7 +3263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 01c35a80c29464d0a8d787f6cbf1ff72
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -2934,116 +3272,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Necromancer_creativekind-Sheet_0: 1979232534141036308
-      Necromancer_creativekind-Sheet_1: -4549297002301125287
-      Necromancer_creativekind-Sheet_10: -4605501128747412024
-      Necromancer_creativekind-Sheet_100: -2179209886628262462
-      Necromancer_creativekind-Sheet_101: -5710874342980937918
-      Necromancer_creativekind-Sheet_102: -4837754662325245234
-      Necromancer_creativekind-Sheet_103: 5811745096133161095
-      Necromancer_creativekind-Sheet_104: -5693061042231786451
-      Necromancer_creativekind-Sheet_105: 1765224494140283864
-      Necromancer_creativekind-Sheet_106: -3454313366249001710
-      Necromancer_creativekind-Sheet_107: 687154573105333851
-      Necromancer_creativekind-Sheet_108: 8749674205095384052
-      Necromancer_creativekind-Sheet_11: -4193835971775733785
-      Necromancer_creativekind-Sheet_12: 3409808894802789817
-      Necromancer_creativekind-Sheet_13: 8710461724235587129
-      Necromancer_creativekind-Sheet_14: -2653330760695398655
-      Necromancer_creativekind-Sheet_15: -2819515392568491981
-      Necromancer_creativekind-Sheet_16: -3662683688509837215
-      Necromancer_creativekind-Sheet_17: -8088590533702708879
-      Necromancer_creativekind-Sheet_18: 8454137596207621691
-      Necromancer_creativekind-Sheet_19: -7179664217565128756
-      Necromancer_creativekind-Sheet_2: -5017558274710951236
-      Necromancer_creativekind-Sheet_20: -3504293129191921647
-      Necromancer_creativekind-Sheet_21: -5942966415196517268
-      Necromancer_creativekind-Sheet_22: 1415119415282973194
-      Necromancer_creativekind-Sheet_23: -8977284430043131677
-      Necromancer_creativekind-Sheet_24: 3804686735229137515
-      Necromancer_creativekind-Sheet_25: -6433735340031378816
-      Necromancer_creativekind-Sheet_26: 2971838691767206909
-      Necromancer_creativekind-Sheet_27: 7168639109887949909
-      Necromancer_creativekind-Sheet_28: 8227030434841246746
-      Necromancer_creativekind-Sheet_29: 5768556887167456969
-      Necromancer_creativekind-Sheet_3: -5201448469101381496
-      Necromancer_creativekind-Sheet_30: 5808652617457255050
-      Necromancer_creativekind-Sheet_31: 6703460316570156537
-      Necromancer_creativekind-Sheet_32: 5508953988207772036
-      Necromancer_creativekind-Sheet_33: -3018430717577881889
-      Necromancer_creativekind-Sheet_34: -4678769115671972293
-      Necromancer_creativekind-Sheet_35: 1725677765547317832
-      Necromancer_creativekind-Sheet_36: -5992090393063052899
-      Necromancer_creativekind-Sheet_37: -6151252522343089175
-      Necromancer_creativekind-Sheet_38: -7999851007023554143
-      Necromancer_creativekind-Sheet_39: 7406382053041856201
-      Necromancer_creativekind-Sheet_4: 4921253077511382348
-      Necromancer_creativekind-Sheet_40: 4989801179615630958
-      Necromancer_creativekind-Sheet_41: -7133359863409537716
-      Necromancer_creativekind-Sheet_42: 896688787591162570
-      Necromancer_creativekind-Sheet_43: 5748698814949677324
-      Necromancer_creativekind-Sheet_44: 4936108732939282069
-      Necromancer_creativekind-Sheet_45: 1228127478403369585
-      Necromancer_creativekind-Sheet_46: -8429442283839558898
-      Necromancer_creativekind-Sheet_47: -8502891535723556308
-      Necromancer_creativekind-Sheet_48: -801924938021301555
-      Necromancer_creativekind-Sheet_49: -5290776392082281392
-      Necromancer_creativekind-Sheet_5: 100784011807756560
-      Necromancer_creativekind-Sheet_50: 7922497380735499603
-      Necromancer_creativekind-Sheet_51: 1961549917889602363
-      Necromancer_creativekind-Sheet_52: -3221689594328364718
-      Necromancer_creativekind-Sheet_53: 2494120712957748194
-      Necromancer_creativekind-Sheet_54: 6728341523732148801
-      Necromancer_creativekind-Sheet_55: 8748716766709744194
-      Necromancer_creativekind-Sheet_56: 7125470657563129707
-      Necromancer_creativekind-Sheet_57: 2120964643705785711
-      Necromancer_creativekind-Sheet_58: 4131399265391528535
-      Necromancer_creativekind-Sheet_59: -8383039347371919889
-      Necromancer_creativekind-Sheet_6: -2985728622076837626
-      Necromancer_creativekind-Sheet_60: 2278041805513999404
-      Necromancer_creativekind-Sheet_61: 5466574199746765729
-      Necromancer_creativekind-Sheet_62: -1697890888660672644
-      Necromancer_creativekind-Sheet_63: 6619643419501727748
-      Necromancer_creativekind-Sheet_64: -326042245422579679
-      Necromancer_creativekind-Sheet_65: 476777190075610078
-      Necromancer_creativekind-Sheet_66: 5998955373277335431
-      Necromancer_creativekind-Sheet_67: 9181689732615545609
-      Necromancer_creativekind-Sheet_68: -86604740489076452
-      Necromancer_creativekind-Sheet_69: 5353416216312683108
-      Necromancer_creativekind-Sheet_7: 4989338898576297435
-      Necromancer_creativekind-Sheet_70: 4190266111177872282
-      Necromancer_creativekind-Sheet_71: 2167684639046566054
-      Necromancer_creativekind-Sheet_72: -4903568464593199661
-      Necromancer_creativekind-Sheet_73: -2310375371450384536
-      Necromancer_creativekind-Sheet_74: -5406343596698597059
-      Necromancer_creativekind-Sheet_75: 8956007108187967498
-      Necromancer_creativekind-Sheet_76: -3680254216025182588
-      Necromancer_creativekind-Sheet_77: -7300259317662599779
-      Necromancer_creativekind-Sheet_78: 6496428792346290078
-      Necromancer_creativekind-Sheet_79: 8940408319640918415
-      Necromancer_creativekind-Sheet_8: -2195632313391920141
-      Necromancer_creativekind-Sheet_80: -8694352786607966535
-      Necromancer_creativekind-Sheet_81: -3584640848549391509
-      Necromancer_creativekind-Sheet_82: -7257632773017354020
-      Necromancer_creativekind-Sheet_83: 1264699256818928894
-      Necromancer_creativekind-Sheet_84: -2332952507496710784
-      Necromancer_creativekind-Sheet_85: -6089289543926980186
-      Necromancer_creativekind-Sheet_86: -4099545101555191920
-      Necromancer_creativekind-Sheet_87: -5372743616513731964
-      Necromancer_creativekind-Sheet_88: -4732529028700553510
-      Necromancer_creativekind-Sheet_89: -5775585140605570671
-      Necromancer_creativekind-Sheet_9: 2570864927315520274
-      Necromancer_creativekind-Sheet_90: 4240549726142307249
-      Necromancer_creativekind-Sheet_91: -5913613643364556608
-      Necromancer_creativekind-Sheet_92: 5810491031328419611
-      Necromancer_creativekind-Sheet_93: 7370464250161390164
-      Necromancer_creativekind-Sheet_94: -748304989333182558
-      Necromancer_creativekind-Sheet_95: 5261171437189393204
-      Necromancer_creativekind-Sheet_96: -3830370920710845333
-      Necromancer_creativekind-Sheet_97: -6708113350699044289
-      Necromancer_creativekind-Sheet_98: -9029254278262725590
-      Necromancer_creativekind-Sheet_99: 3052978708878726302
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

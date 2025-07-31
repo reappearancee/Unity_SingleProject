@@ -6,43 +6,59 @@ public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI playTimeUI;
     public TextMeshProUGUI scoreUI;
+
+    public Slider slid_Score;
+    public Slider slid_Time;
     public GameObject GameOverUI;
 
-    private static float timer;
-    public static int score;
+    private static float setTime = 15f;
+    private static float currTime;
+    public static int maxScore = 150;
+    public static int currScore;
     public static bool isPlay;
 
     void Start()
     {
-        timer = 15f;
+        currTime = setTime;
         isPlay = true;
-        Time.timeScale = 1f; // 다시 게임 시작할 때 시간 정상화
-    }
+        Time.timeScale = 1f;
 
+        slid_Score.maxValue = maxScore;
+        slid_Score.value = maxScore - currScore;
+        
+        slid_Time.maxValue = setTime;
+        slid_Time.value = setTime; // 100% 채워진 상태
+    }
+    
     void Update()
     {
         if (!isPlay) return;
 
-        timer -= Time.deltaTime;
-        if (timer < 0f) timer = 0f;
+        // 시간 감소 먼저!
+        currTime -= Time.deltaTime;
+        if (currTime < 0f) currTime = 0f;
 
-        scoreUI.text = $"점수 : {score}";
-
-        int seconds = Mathf.FloorToInt(timer); // 정수 초
-        int millis = Mathf.FloorToInt((timer - seconds) * 100); // 밀리초 두 자리
+        // 텍스트 업데이트
+        scoreUI.text = $"점수:{currScore}";
+        int seconds = Mathf.FloorToInt(currTime);
+        int millis = Mathf.FloorToInt((currTime - seconds) * 100);
         playTimeUI.text = $"{seconds:00}:{millis:00}";
 
-        if (timer <= 0f)
+        // ✅ 슬라이더 갱신 순서를 여기서!
+        slid_Score.value = maxScore - currScore;
+        slid_Time.value = currTime;
+
+        if (currTime <= 0f)
         {
             GameOverUI.gameObject.SetActive(true);
             isPlay = false;
-            Time.timeScale = 0f; // 🔥 게임 전체 정지
+            Time.timeScale = 0f;
         }
     }
 
     public static void ResetPlayUI()
     {
-        timer = 0f;
-        score = 0;
+        currScore = 0;
+        setTime = 15f;
     }
 }

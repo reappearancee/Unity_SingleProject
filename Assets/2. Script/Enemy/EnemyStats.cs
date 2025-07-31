@@ -48,7 +48,7 @@ public class EnemyStats : MonoBehaviour, I_Stats
 
     if (hp <= 0)
     {
-        GameManager.score += enemy_Score;
+        GameManager.currScore += enemy_Score;
 
         // 💥 죽었을 때 이펙트 실행
         if (deathEffect != null)
