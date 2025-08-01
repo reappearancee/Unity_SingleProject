@@ -11,9 +11,9 @@ public class GameManager : MonoBehaviour
     public Slider slid_Time;
     public GameObject GameOverUI;
 
-    private static float setTime = 90f;
+    private static float setTime = 10f;
     private static float currTime;
-    public static int maxScore = 500;
+    public static int maxScore = 50;
     public static int currScore;
     public static bool isPlay;
 
