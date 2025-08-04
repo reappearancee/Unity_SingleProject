@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 37786e3eb7851450ab48e807ac3b3a49
+guid: 70331d6e8fdad4bb48bd2ec618b227f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5807865135215785520
-    second: Plant3_0
+      213: 8652673965085523312
+    second: Finalhand_page_02_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Plant3_0
+      name: Finalhand_page_02_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 4
-        width: 17
-        height: 15
+        x: 0
+        y: 6
+        width: 23
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d946105e61566fa0800000000000000
-      internalID: -5807865135215785520
+      spriteID: 07d713e9029741870800000000000000
+      internalID: 8652673965085523312
       vertices: []
       indices: 
       edges: []
