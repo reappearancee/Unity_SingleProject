@@ -58,6 +58,11 @@ public class EnemyMovement : MonoBehaviour
             {
                 playerStats.hp -= enemyStats.damage;
                 Debug.Log("Player Hit");
+                
+                if (GameManager.instance != null)
+                {
+                    GameManager.instance.UpdateHeartUI();
+                }
 
                 if (CameraShakeAndFlash.instance != null)
                 {

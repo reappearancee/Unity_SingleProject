@@ -11,7 +11,7 @@ public class CameraShakeAndFlash : MonoBehaviour
     public Image damagedImage;
     public float flashDuration = 0.1f;
 
-    private Coroutine flashCoroutine; // 코루틴 중복 방지용
+    private Coroutine flashCoroutine;
 
     private void Awake()
     {
@@ -23,7 +23,6 @@ public class CameraShakeAndFlash : MonoBehaviour
     {
         StartCoroutine(ShakeCoroutine(duration, magnitude));
 
-        // 중복 실행 없이, 기존 코루틴이 끝나면 다시 실행
         if (flashCoroutine == null)
         {
             flashCoroutine = StartCoroutine(FlashRoutine());
@@ -41,7 +40,7 @@ public class CameraShakeAndFlash : MonoBehaviour
 
             transform.localPosition = originalPos + new Vector3(offsetX, offsetY, 0f);
 
-            elapsed += Time.deltaTime;
+            elapsed += Time.unscaledDeltaTime; // ✅ 시간 정지 무시
             yield return null;
         }
 
@@ -53,9 +52,9 @@ public class CameraShakeAndFlash : MonoBehaviour
         Color originalColor = damagedImage.color;
 
         damagedImage.color = new Color(1, 0, 0, 10f / 255f);
-        yield return new WaitForSeconds(flashDuration);
+        yield return new WaitForSecondsRealtime(flashDuration); // ✅ 시간 정지 무시
 
         damagedImage.color = originalColor;
-        flashCoroutine = null; // 종료되면 null로 초기화
+        flashCoroutine = null;
     }
 }

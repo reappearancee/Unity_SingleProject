@@ -12,6 +12,13 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI scoreUI;
     public Slider slid_Score;
     public Slider slid_Time;
+
+    [Header("체력 바")] 
+    public Image[] Heart;
+    public Sprite heartFull;
+    public Sprite heartHalf;
+    public Sprite heartEmpty;
+    
     
     [Header("화면 전환")]
     public GameObject gameoverUI;
@@ -25,7 +32,14 @@ public class GameManager : MonoBehaviour
     public static int currScore;
     
     public static bool isPlay;
+    
+    public static GameManager instance; //싱글톤
 
+    void Awake()
+    {
+        instance = this;
+    }
+    
     void OnEnable()
     {
         Time.timeScale = 0f;
@@ -57,7 +71,7 @@ public class GameManager : MonoBehaviour
     
     void Update()
     {
-        // 게임 시작 전, 터치로 시작
+        // 게임 시작 전 대기, 터치로 시작
         if (!isPlay)
         {
 #if UNITY_EDITOR || UNITY_STANDALONE || UNITY_WEBGL
@@ -71,7 +85,7 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        // 시간 감소 먼저!
+        // 시간 감소 먼저
         currTime -= Time.deltaTime;
         if (currTime < 0f) currTime = 0f;
 
@@ -100,11 +114,36 @@ public class GameManager : MonoBehaviour
             Time.timeScale = 0f;
         }
     }
+    public void UpdateHeartUI()
+    {
+        float hp = playerStats.hp;
+        float maxHp = playerStats.maxHp;
+
+        for (int i = 0; i < Heart.Length; i++)
+        {
+            float heartThreshold = i + 1;
+
+            if (hp >= heartThreshold)
+            {
+                Heart[i].sprite = heartFull;
+            }
+            else if (hp + 0.5f >= heartThreshold)
+            {
+                Heart[i].sprite = heartHalf;
+            }
+            else
+            {
+                Heart[i].sprite = heartEmpty;
+            }
+
+            Heart[i].enabled = (i < maxHp); // 필요 시
+        }
+    }
 
     public void RestartGame()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("2. Ingame");
-    }
+    } // 오버 -> 재시작
 
     public void ContinueGame()
     {
@@ -114,5 +153,6 @@ public class GameManager : MonoBehaviour
         playerStats.hp += 2f;
         currTime += 30f;
         Time.timeScale = 1f;
-    }
+        UpdateHeartUI(); 
+    } // 오버 -> 이어하기 
 }
