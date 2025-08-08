@@ -56,7 +56,7 @@ public class EnemyStats : MonoBehaviour, I_Stats
             Instantiate(deathEffect, transform.position, Quaternion.identity);
         }
 
-        Destroy(gameObject);
+        EnemyPool.instance.ReturnEnemy(EnemyType.Tree, gameObject);
         return;
     }
 }

@@ -3,8 +3,6 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    private PlayerStats playerStats;
-    private EnemyStats enemyStats;
     public float speed = 5f;
     private float bulletDmg;
     private Vector3 moveDirection = Vector3.up; // 기본값 (혹시라도 설정 안 됐을 때 대비)
@@ -14,10 +12,6 @@ public class Bullet : MonoBehaviour
         moveDirection = dir.normalized;
     }
     
-    private void Start()
-    {
-        playerStats = GetComponent<PlayerStats>();
-    }
 
     void Update()
     {
@@ -36,6 +30,6 @@ public class Bullet : MonoBehaviour
             enemyStats.TakeHit(bulletDmg);
         }
 
-        Destroy(gameObject);
+        BulletPool.instance.ReturnBullet(gameObject);
     }
 }
