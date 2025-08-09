@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class PlayerShooting : MonoBehaviour
 {
+    public GameObject bulletPrefab;
     public Transform firePos;
+    public float fireRate = 0.2f;
     private float timer = 0f;
     private bool flipNext = false;
 
@@ -12,26 +14,35 @@ public class PlayerShooting : MonoBehaviour
     {
         playerStats = GetComponent<PlayerStats>();
     }
-    
-    public void FireLeft()
-    {
-        Fire(true); // flip = true
-    }
 
-    public void FireRight()
+    void Update()
     {
-        Fire(false); // flip = false
-    }
-    
-    private void Fire(bool flip)
-    {
-        var rotY = flip ? -180f : 0f;
-        var bulletObj = BulletPool.instance.GetBullet();
-        bulletObj.transform.position = firePos.position;
-        bulletObj.transform.rotation = firePos.rotation = Quaternion.Euler(0,rotY,160);
+        timer += Time.deltaTime;
 
-        var bullet = bulletObj.GetComponent<Bullet>();
-        if (bullet != null)
-            bullet.SetDamage(playerStats.damage);
+        if (timer >= fireRate)
+        {
+            // Instantiate
+            var bulletObj = Instantiate(bulletPrefab, firePos.position, Quaternion.Euler(0, 0, 160));
+
+            // 데미지 설정
+            var bullet = bulletObj.GetComponent<Bullet>();
+            if (bullet != null)
+            {
+                bullet.SetDamage(playerStats.damage);
+            }
+
+            // Y축 플립 적용
+            if (flipNext)
+            {
+                bulletObj.transform.rotation = Quaternion.Euler(0, -180, 160);
+            }
+            else
+            {
+                bulletObj.transform.rotation = Quaternion.Euler(0, 0, 160);
+            }
+
+            flipNext = !flipNext;
+            timer = 0f;
+        }
     }
 }

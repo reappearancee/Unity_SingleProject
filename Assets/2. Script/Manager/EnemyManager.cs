@@ -1,10 +1,13 @@
 using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEngine;
+
 using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
-    public EnemyType[] enemyTypes;         // 🔁 등장 가능한 적 타입들
-    public Transform[] spawnPoints;        // 스폰 위치들
+    public GameObject[] enemyPrefab;      // 생성할 적 프리팹
+    public Transform[] spawnPoints;     // 생성 위치들
     public float minSpawnTime = 2f;
     public float maxSpawnTime = 6f;
 
@@ -30,47 +33,19 @@ public class EnemyManager : MonoBehaviour
 
     void SpawnEnemy()
     {
-        if (enemyTypes == null || enemyTypes.Length == 0)
-        {
-            Debug.LogError("enemyTypes가 비어 있습니다!");
-            return;
-        }
+        int spawnCount = Random.Range(1, Mathf.Min(4, spawnPoints.Length + 1)); // 1~3마리 (혹은 spawnPoint 개수까지만)
 
-        if (spawnPoints == null || spawnPoints.Length == 0)
-        {
-            Debug.LogError("spawnPoints가 비어 있습니다!");
-            return;
-        }
-
-        int maxSpawn = Mathf.Min(4, spawnPoints.Length);
-        int spawnCount = Random.Range(1, maxSpawn + 1);
-
+        // spawnPoints 섞기
         List<Transform> shuffled = new List<Transform>(spawnPoints);
         ShuffleList(shuffled);
 
         for (int i = 0; i < spawnCount; i++)
         {
-            if (i >= shuffled.Count)
-            {
-                Debug.LogError($"i = {i}, but shuffled.Count = {shuffled.Count}");
-                continue;
-            }
-
-            Transform spawnPos = shuffled[i];
-            int randIndex = Random.Range(0, enemyTypes.Length);
-            EnemyType typeToSpawn = enemyTypes[randIndex];
-
-            GameObject enemy = EnemyPool.instance.GetEnemy(typeToSpawn);
-            if (enemy != null)
-            {
-                enemy.transform.position = spawnPos.position;
-                enemy.transform.rotation = Quaternion.identity;
-                
-                enemy.SetActive(true);
-            }
+            Transform spawnPos = shuffled[i]; // 중복 안 되게 사용
+            int randEnemy = Random.Range(0, enemyPrefab.Length);
+            Instantiate(enemyPrefab[randEnemy], spawnPos.position, Quaternion.identity);
         }
     }
-
     void ShuffleList(List<Transform> list)
     {
         for (int i = 0; i < list.Count; i++)
@@ -81,7 +56,6 @@ public class EnemyManager : MonoBehaviour
             list[rand] = temp;
         }
     }
-
     void SetNextSpawnTime()
     {
         nextSpawnTime = Random.Range(minSpawnTime, maxSpawnTime);
