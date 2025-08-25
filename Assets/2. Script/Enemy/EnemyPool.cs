@@ -1,45 +1,66 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum EnemyType { Tree } // 필요시 Shooter 등 추가
+
 public class EnemyPool : MonoBehaviour
 {
     public static EnemyPool instance;
 
-    public GameObject prefab;
-    public int size = 10;
+    [System.Serializable]
+    public class Pool
+    {
+        public EnemyType enemyType;
+        public GameObject prefab;
+        public int size;
+    }
 
-    private Queue<GameObject> pool = new Queue<GameObject>();
+    public List<Pool> pools;
+    private Dictionary<EnemyType, Queue<GameObject>> poolDictionary;
 
-    void Awake()
+    private void Awake()
     {
         instance = this;
+        poolDictionary = new Dictionary<EnemyType, Queue<GameObject>>();
 
-        for (int i = 0; i < size; i++)
+        foreach (var pool in pools)
         {
-            var obj = Instantiate(prefab);
-            obj.SetActive(false);
-            pool.Enqueue(obj);
+            Queue<GameObject> objectPool = new Queue<GameObject>();
+
+            for (int i = 0; i < pool.size; i++)
+            {
+                GameObject obj = Instantiate(pool.prefab);
+                obj.SetActive(false);
+                objectPool.Enqueue(obj);
+            }
+
+            poolDictionary.Add(pool.enemyType, objectPool);
         }
     }
 
-    public GameObject GetEnemy()
+    public GameObject GetEnemy(EnemyType type)
     {
-        if (pool.Count > 0)
+        if (!poolDictionary.ContainsKey(type))
+            return null;
+
+        if (poolDictionary[type].Count > 0)
         {
-            var enemy = pool.Dequeue();
+            GameObject enemy = poolDictionary[type].Dequeue();
             enemy.SetActive(true);
             return enemy;
         }
         else
         {
-            var enemy = Instantiate(prefab);
-            return enemy;
+            // 풀을 벗어났으면 예외 처리 (추가 생성해도 OK)
+            Debug.LogWarning($"Pool exhausted for {type}, instantiating new.");
+            var prefab = pools.Find(p => p.enemyType == type).prefab;
+            return Instantiate(prefab);
         }
     }
 
-    public void ReturnEnemy(GameObject enemy)
+    public void ReturnEnemy(EnemyType type, GameObject enemy)
     {
         enemy.SetActive(false);
-        pool.Enqueue(enemy);
+        poolDictionary[type].Enqueue(enemy);
     }
 }

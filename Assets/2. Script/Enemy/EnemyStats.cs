@@ -42,19 +42,23 @@ public class EnemyStats : MonoBehaviour, I_Stats
             }
         }
     }
-    public void TakeHit(float dmg)
+ public void TakeHit(float dmg)
+{
+    hp -= dmg;
+
+    if (hp <= 0)
     {
-        hp -= dmg;
+        GameManager.currScore += enemy_Score;
 
-        if (hp <= 0)
+        // 💥 죽었을 때 이펙트 실행
+        if (deathEffect != null)
         {
-            GameManager.currScore += enemy_Score;
-
-            if (deathEffect != null)
-                Instantiate(deathEffect, transform.position, Quaternion.identity);
-
-            EnemyPool.instance.ReturnEnemy(gameObject); // ← Destroy 대신
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
         }
+
+        EnemyPool.instance.ReturnEnemy(EnemyType.Tree, gameObject);
+        return;
     }
+}
     
 }

@@ -110,7 +110,11 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
+<<<<<<< HEAD
   - time: 0.4
+=======
+  - time: 0.35
+>>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
     functionName: FireRight
     data: 
     objectReferenceParameter: {fileID: 0}

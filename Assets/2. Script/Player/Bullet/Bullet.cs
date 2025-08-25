@@ -12,6 +12,10 @@ public class Bullet : MonoBehaviour
         moveDirection = dir.normalized;
     }
     
+<<<<<<< HEAD:Assets/2. Script/Player/Bullet.cs
+=======
+
+>>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project"):Assets/2. Script/Player/Bullet/Bullet.cs
     void Update()
     {
         transform.position += moveDirection * speed * Time.deltaTime;
