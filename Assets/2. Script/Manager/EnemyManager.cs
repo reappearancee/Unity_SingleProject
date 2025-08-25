@@ -33,17 +33,17 @@ public class EnemyManager : MonoBehaviour
 
     void SpawnEnemy()
     {
-        int spawnCount = Random.Range(1, Mathf.Min(4, spawnPoints.Length + 1)); // 1~3마리 (혹은 spawnPoint 개수까지만)
+        int spawnCount = Random.Range(1, Mathf.Min(4, spawnPoints.Length + 1));
 
-        // spawnPoints 섞기
         List<Transform> shuffled = new List<Transform>(spawnPoints);
         ShuffleList(shuffled);
 
         for (int i = 0; i < spawnCount; i++)
         {
-            Transform spawnPos = shuffled[i]; // 중복 안 되게 사용
-            int randEnemy = Random.Range(0, enemyPrefab.Length);
-            Instantiate(enemyPrefab[randEnemy], spawnPos.position, Quaternion.identity);
+            var spawnPos = shuffled[i];
+            GameObject enemy = EnemyPool.instance.GetEnemy();
+            enemy.transform.position = spawnPos.position;
+            enemy.transform.rotation = Quaternion.identity;
         }
     }
     void ShuffleList(List<Transform> list)
