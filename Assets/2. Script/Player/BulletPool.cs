@@ -32,9 +32,10 @@ public class BulletPool : MonoBehaviour
             bullet.SetActive(true);
             return bullet;
         }
-        else //필요시 추가 생성 
+        else
         {
             GameObject bullet = Instantiate(bulletPrefab);
+            bullet.SetActive(true);
             return bullet;
         }
     }
