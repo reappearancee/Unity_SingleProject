@@ -6,7 +6,7 @@ public class DestroyZone_Top : MonoBehaviour
     {
         if (other.CompareTag("Bullet"))
         {
-            Destroy(other.gameObject);
+            BulletPool.instance.ReturnBullet(other.gameObject);
         }
     }
 }

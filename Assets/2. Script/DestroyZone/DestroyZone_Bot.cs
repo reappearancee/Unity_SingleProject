@@ -6,7 +6,7 @@ public class DestroyZone_Bot : MonoBehaviour
     {
         if (other.CompareTag("Enemy"))
         {
-            Destroy(other.gameObject);
+            EnemyPool.instance.ReturnEnemy(other.gameObject); // ← 메서드명 ReturnEnemy
         }
     }
 }
