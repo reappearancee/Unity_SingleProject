@@ -2904,16 +2904,11 @@ Transform:
   m_GameObject: {fileID: 475494224}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: -0.05000019, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-=======
-  m_LocalPosition: {x: 0, y: -0.012500048, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1983003398}
+  m_Father: {fileID: 1309450792}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &494182285
 GameObject:
@@ -6460,16 +6455,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1309450792}
-<<<<<<< HEAD
   - component: {fileID: 1309450794}
   - component: {fileID: 1309450793}
   - component: {fileID: 1309450799}
   - component: {fileID: 1309450798}
   - component: {fileID: 1309450797}
-=======
-  - component: {fileID: 1309450791}
-  - component: {fileID: 1309450795}
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
   - component: {fileID: 1309450796}
   - component: {fileID: 1309450795}
   m_Layer: 11
@@ -6479,7 +6469,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!4 &1309450792
 Transform:
   m_ObjectHideFlags: 0
@@ -6625,9 +6614,6 @@ Animator:
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &1309450799
-=======
---- !u!212 &1309450791
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6682,89 +6668,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
-=======
---- !u!4 &1309450792
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1309450789}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 1
-  m_Children:
-  - {fileID: 1983003398}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &1309450795
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1309450789}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0.00720042, y: -0.09360552}
-  m_Size: {x: 0.7263838, y: 1.4752283}
-  m_Direction: 0
---- !u!50 &1309450796
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1309450789}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
 --- !u!1 &1394875768
 GameObject:
   m_ObjectHideFlags: 0
@@ -7467,10 +7370,7 @@ GameObject:
   - component: {fileID: 1620750333}
   - component: {fileID: 1620750332}
   - component: {fileID: 1620750334}
-<<<<<<< HEAD
   - component: {fileID: 1620750335}
-=======
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
   m_Layer: 0
   m_Name: '[Game] Manager'
   m_TagString: Untagged
@@ -7528,16 +7428,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1620750331}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 2b2910bc8afa745bdbdefc7db46f2c09, type: 3}
-=======
-  m_Script: {fileID: 11500000, guid: 189a364814cac46388b0fd08016ced2f, type: 3}
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 1825500229457547146, guid: 22a3f919d5c304d2896bfb3856e093c4, type: 3}
   poolSize: 20
-<<<<<<< HEAD
 --- !u!114 &1620750335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7552,8 +7447,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 4724237247438905194, guid: bbf80c99741104efe8ef818e2c1acdea, type: 3}
   size: 10
-=======
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
 --- !u!1 &1662964674
 GameObject:
   m_ObjectHideFlags: 0
@@ -9598,166 +9491,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
-<<<<<<< HEAD
-=======
---- !u!1 &1983003397
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1983003398}
-  - component: {fileID: 1983003400}
-  - component: {fileID: 1983003399}
-  - component: {fileID: 1983003402}
-  - component: {fileID: 1983003401}
-  - component: {fileID: 1983003403}
-  m_Layer: 11
-  m_Name: Model & Script
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1983003398
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4, y: 4, z: 4}
-  m_ConstrainProportionsScale: 1
-  m_Children:
-  - {fileID: 475494225}
-  m_Father: {fileID: 1309450792}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1983003399
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e87ad4746c9c64aed8f72fde59898f64, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!212 &1983003400
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -537706690483726499, guid: f1578ba773cb24a29815edd0e3220413, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.96, y: 0.8}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!114 &1983003401
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbe0b0f80c68245bf9b215ae46e01505, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player_Damage: 3
-  player_MoveSpeed: 5
-  player_Hp: 3
-  player_MaxHp: 3
---- !u!114 &1983003402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 908ea9b8976754e87b4e7eb105ae8514, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1825500229457547146, guid: 22a3f919d5c304d2896bfb3856e093c4, type: 3}
-  firePos: {fileID: 475494225}
---- !u!114 &1983003403
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1983003397}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c2acd84c93b74d8c81f1b438b6dfa3e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  boundaryX: 3
->>>>>>> parent of eded1a6 (Revert "8월 8일 금 Toss Project")
 --- !u!1 &2030870149
 GameObject:
   m_ObjectHideFlags: 0
